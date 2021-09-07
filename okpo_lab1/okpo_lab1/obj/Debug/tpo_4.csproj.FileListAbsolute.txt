@@ -1,0 +1,10 @@
+C:\Users\MSI\source\repos\okpo_lab1\okpo_lab1\bin\Debug\okpo_lab1.exe.config
+C:\Users\MSI\source\repos\okpo_lab1\okpo_lab1\bin\Debug\okpo_lab1.exe
+C:\Users\MSI\source\repos\okpo_lab1\okpo_lab1\bin\Debug\okpo_lab1.pdb
+C:\Users\MSI\source\repos\okpo_lab1\okpo_lab1\obj\Debug\tpo_4.csprojAssemblyReference.cache
+C:\Users\MSI\source\repos\okpo_lab1\okpo_lab1\obj\Debug\tpo4.Form1.resources
+C:\Users\MSI\source\repos\okpo_lab1\okpo_lab1\obj\Debug\okpo_lab1.Properties.Resources.resources
+C:\Users\MSI\source\repos\okpo_lab1\okpo_lab1\obj\Debug\tpo_4.csproj.GenerateResource.cache
+C:\Users\MSI\source\repos\okpo_lab1\okpo_lab1\obj\Debug\tpo_4.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\okpo_lab1\okpo_lab1\obj\Debug\okpo_lab1.exe
+C:\Users\MSI\source\repos\okpo_lab1\okpo_lab1\obj\Debug\okpo_lab1.pdb

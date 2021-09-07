@@ -1,0 +1,10 @@
+C:\Users\MSI\source\repos\tpo_lab\tpo_lab\bin\Debug\tpo_lab.exe.config
+C:\Users\MSI\source\repos\tpo_lab\tpo_lab\bin\Debug\tpo_lab.exe
+C:\Users\MSI\source\repos\tpo_lab\tpo_lab\bin\Debug\tpo_lab.pdb
+C:\Users\MSI\source\repos\tpo_lab\tpo_lab\obj\Debug\tpo_lab.csprojAssemblyReference.cache
+C:\Users\MSI\source\repos\tpo_lab\tpo_lab\obj\Debug\tpo_lab.Form1.resources
+C:\Users\MSI\source\repos\tpo_lab\tpo_lab\obj\Debug\tpo_lab.Properties.Resources.resources
+C:\Users\MSI\source\repos\tpo_lab\tpo_lab\obj\Debug\tpo_lab.csproj.GenerateResource.cache
+C:\Users\MSI\source\repos\tpo_lab\tpo_lab\obj\Debug\tpo_lab.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\tpo_lab\tpo_lab\obj\Debug\tpo_lab.exe
+C:\Users\MSI\source\repos\tpo_lab\tpo_lab\obj\Debug\tpo_lab.pdb
